@@ -1,3 +1,5 @@
+//use with Teensy 3.2, set USB Type as Fligh Sim Controls + Joystick
+
 #include "./include/Receiver.h"
 #include "./include/PWM_Receiver.h"
 
