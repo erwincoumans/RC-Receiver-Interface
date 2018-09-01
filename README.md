@@ -29,9 +29,10 @@ for detecting receiver signals.
 # Example Sketch and Hardware Setup
 
 The example sketch ```RC-Receiver-Interface.ino``` sets up the receiver such
-that you can connect your receiver to pins 8, 9, 10, 11. Channel order is
+that you can connect your receiver to pins 19, 20, 21, 22. Channel order is
 throttle, aileron, elevator, rudder.  
 Sketch is modified to act as joystick to work with ROS racecar from F1-10
+with Button 4 and Button 5 connected to the 3-state switch on the remote.
 On Teensy 3.2, sett USB Type as Fligh Sim Controls + Joystick
 Tested with HobbyKing Quanum i8 8ch 2.4GHZ AFHDS 2A Digital Proportional Radio System 
 Transmitter and Receiver
