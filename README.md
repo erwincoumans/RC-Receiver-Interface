@@ -36,3 +36,7 @@ On Teensy 3.2, sett USB Type as Fligh Sim Controls + Joystick
 Tested with HobbyKing Quanum i8 8ch 2.4GHZ AFHDS 2A Digital Proportional Radio System 
 Transmitter and Receiver
 ![alt text](https://raw.githubusercontent.com/erwincoumans/RC-Receiver-Interface/master/img/IMG_20180831_190713.jpg)
+and close-up on the receiver:
+![alt text](https://raw.githubusercontent.com/erwincoumans/RC-Receiver-Interface/master/img/IMG_20180831_190804.jpg)
+
+
