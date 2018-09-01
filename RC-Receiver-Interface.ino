@@ -1,5 +1,7 @@
-//use with Teensy 3.2, set USB Type as Fligh Sim Controls + Joystick
-
+//use with Teensy 3.2, set USB Type as Fligh Sim Controls + Joystick works well with:
+//HobbyKing Quanum i8 8ch 2.4GHZ AFHDS 2A Digital Proportional Radio System 
+//Transmitter and Receiver
+  
 #include "./include/Receiver.h"
 #include "./include/PWM_Receiver.h"
 
